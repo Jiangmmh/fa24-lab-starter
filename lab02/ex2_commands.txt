@@ -3,3 +3,19 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+start
+next
+next
+next
+next
+step
+step
+p password
+fin
+next
+step
+next
+next
+p meets_len_req
+p length
+q
